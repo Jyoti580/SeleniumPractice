@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="package1.TC1_login">
+      <class name="package1.demo">
         <methods>
-          <include name="login_test"/>
+          <include name="googleCalender"/>
         </methods>
-      </class> <!-- package1.TC1_login -->
+      </class> <!-- package1.demo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
